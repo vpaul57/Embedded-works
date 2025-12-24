@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Token for the embedded folder commits
 
+=======
+Token for the embedded folder commits
+
+>>>>>>> f78543e3e7abcc5cc2b4f21944168f6a1e4b0795
 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
