@@ -79,7 +79,7 @@ int main()
         if (y == 0)
         {
             printf("\n Division by zero is not allowed.");
-            return 1;
+            return 0;
         }
         else
         {
